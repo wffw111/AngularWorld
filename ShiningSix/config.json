@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "ShiningSix"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-ShiningSix-89c14c2f-574f-4e84-9868-c0fa0c385dc2;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
